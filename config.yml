@@ -1,7 +1,10 @@
 ---
 calendars:
   home:
-    - user: aaa
-      pass: bbb
-      url: https://ccc
-
+    - type: caldav
+      user: user@example.com
+      pass: password
+      url: caldav.example.com
+  work:
+    - type: ical
+      url: https://example.com/cal.ics
