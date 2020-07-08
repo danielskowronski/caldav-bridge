@@ -1,0 +1,7 @@
+---
+calendars:
+  home:
+    - user: aaa
+      pass: bbb
+      url: https://ccc
+
